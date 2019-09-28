@@ -1,1 +1,1 @@
-[![build status of master](https://travis-ci.org/Erik-Bornako/GitHubApi567.svg?branch=master)](https://travis-ci.org/Erik-Bornako/GitHubApi567)
+[![build status of HW05a_Mocking](https://travis-ci.org/Erik-Bornako/GitHubApi567.svg?branch=HW05a_Mocking)](https://travis-ci.org/Erik-Bornako/GitHubApi567)
